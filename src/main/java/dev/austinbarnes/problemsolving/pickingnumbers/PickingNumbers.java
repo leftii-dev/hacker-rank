@@ -1,4 +1,4 @@
-package dev.austinbarnes.problemsolving;
+package dev.austinbarnes.problemsolving.pickingnumbers;
 
 import java.io.*;
 import java.util.*;
