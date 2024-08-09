@@ -22,7 +22,6 @@ class Result {
             int index = p.indexOf(x);
             result.add(p.indexOf(index + 1) + 1);
         }
-
         return result;
     }
 
